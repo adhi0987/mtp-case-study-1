@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "age": 45,
+        "gender": "Male",
+        "phone": "1223122312",
+        "email": "john.doe@example.com",
+        "blood_group": "A+",
+        "mrn": "mrn123122123",
+        "aadhar": "234232232566"
+    },
+    {
+        "id": 2,
+        "name": "Jane Smith",
+        "age": 30,
+        "gender": "Female",
+        "phone": "9876543210",
+        "email": "emma.johnson@example.com",
+        "blood_group": "B-",
+        "mrn": "mrn987654321",
+        "aadhar": "987654321098"
+    },
+    {
+        "id": 3,
+        "name": "Michael Johnson",
+        "age": 55,
+        "gender": "Male",
+        "phone": "5551234567",
+        "email": "michael.johnson@example.com",
+        "blood_group": "O+",
+        "mrn": "mrn555123456",
+        "aadhar": "555123456789"
+    },
+    {
+        "id": 4,
+        "name": "Emily Davis",
+        "age": 28,
+        "gender": "Female",
+        "phone": "4449876543",
+        "email": "davis@example.com",
+        "blood_group": "AB-",
+        "mrn": "mrn444987654",
+        "aadhar": "444987654321"
+    },
+    {
+        "id": 5,
+        "name": "William Brown",
+        "age": 60,
+        "gender": "Male",
+        "phone": "3335556667",
+        "email": "willy@example.com",
+        "blood_group": "A-",
+        "mrn": "mrn333555666",
+        "aadhar": "333555666789"
+    },
+    {
+        "id": 6,
+        "name": "Olivia Wilson",
+        "age": 35,
+        "gender": "Female",
+        "phone": "2224445555",
+        "email": "oliva@example.com",
+        "blood_group": "B+",
+        "mrn": "mrn222444555",
+        "aadhar": "222444555666"
+    },
+    {
+        "id": 7,
+        "name": "James Taylor",
+        "age": 50,
+        "gender": "Male",
+        "phone": "1112223333",
+        "email": "jamesstaylor@example.com",
+        "blood_group": "O-",
+        "mrn": "mrn111222333",
+        "aadhar": "111222333444"
+    },
+    {
+        "id": 8,
+        "name": "Sophia Anderson",
+        "age": 40,
+        "gender": "Female",
+        "phone": "9998887777",
+        "email": "sophia.anderson@example.com",
+        "blood_group": "AB+",
+        "mrn": "mrn999888777",
+        "aadhar": "999888777666"
+    },
+    {
+        "id": 9,
+        "name": "Benjamin Martinez",
+        "age": 38,
+        "gender": "Male",
+        "phone": "7776665555",
+        "email": "benjamin.martinez@example.com",
+        "blood_group": "A+",
+        "mrn": "mrn777666555",
+        "aadhar": "777666555444"
+    },
+    {
+        "id": 10,
+        "name": "Ava Thomas",
+        "age": 32,
+        "gender": "Female",
+        "phone": "6665554444",
+        "email": "ava@example.com",
+        "blood_group": "B-",
+        "mrn": "mrn666555444",
+        "aadhar": "666555444333"
+    }
+]
